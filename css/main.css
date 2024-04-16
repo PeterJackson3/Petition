@@ -525,4 +525,6 @@ iframe {
   height: 80px; /* Set the height */
   display: block; /* Make the image a block element */
   margin: auto; /* Center the image horizontally */
+  padding-bottom: 10px;
+
 }
